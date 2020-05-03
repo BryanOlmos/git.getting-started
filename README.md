@@ -1,4 +1,4 @@
-# For test of Bryan Olmos
+# For test of 2 branch
 # git.getting-started
 training repository for basic GitHub functionality 
 
